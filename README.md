@@ -2,7 +2,7 @@
 
 Hello! I'm Ad or Mercury. I'm a freelance web developer particularly keen on projects that help enable creative endeavors.
 
-Check my pinned repositories for some projects I'm particularly involved in as well as [my site](https://itinerare.net) for more of my work, especially my creative endeavors!
+Check my pinned repositories for some projects I'm particularly involved in as well as [my site](https://itinerare.net) for more of my work!
 
 ---
 
